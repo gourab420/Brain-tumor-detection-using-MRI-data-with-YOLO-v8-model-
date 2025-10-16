@@ -1,0 +1,14 @@
+tqdm
+numpy
+pandas
+matplotlib
+seaborn
+imutils
+opencv-python
+Pillow
+PyYAML
+streamlit
+mysql-connector-python
+tensorflow
+ultralytics
+reportlab
